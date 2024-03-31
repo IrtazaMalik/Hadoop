@@ -1,0 +1,10 @@
+# Method to generate query vector
+def generate_query_vector(query, idf_values):
+    query_vector = {}
+    total_words = len(query)
+    for word in query:
+        word_id = hashlib.sha256(word.encode()).hexdigest()  # Calculate word ID
+        if word_id in idf_values:
+            tf_idf = 1 / total_words * idf_values[word_id]  # Assuming uniform TF for query terms
+            query_vector[word_id] = tf_idf
+    return query_vector
