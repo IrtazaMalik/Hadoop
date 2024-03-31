@@ -1,8 +1,8 @@
-# Hadoop
+# Basic Search Engine Using MapReduce
 By: i211376-Irtaza_i211761-Nabeeha_i211721-Huraida
 
 
-**  Report on Implementing a Basic Search Engine Using MapReduce  **
+## Report on Implementing a Basic Search Engine Using MapReduce 
 
 
 Introduction:
