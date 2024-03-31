@@ -1,8 +1,10 @@
 # Hadoop
-i211376-Irtaza_i211761-Nabeeha_i211721-Huraida
+By: i211376-Irtaza_i211761-Nabeeha_i211721-Huraida
 
-**Report on Implementing a Basic Search Engine Using MapReduce
-**
+
+**  Report on Implementing a Basic Search Engine Using MapReduce  **
+
+
 Introduction:
 The objective of this project was to develop a basic search engine using the MapReduce paradigm. The project involved several steps including document indexing and query processing. This report outlines the procedures followed and the implementation details for each step.
 
